@@ -2,7 +2,7 @@
 final project excel word latex power point   
 
 
- examen final de bureatique
+ examen final de bureautique
 
 
  
@@ -15,7 +15,7 @@ les participant
 Wail  med bentafat    232331419809
 
 
-djabala lounes        232331572817
+djaballa lounes        232331572817
 
 
 
